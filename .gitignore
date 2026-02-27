@@ -4,3 +4,10 @@
 
 data/
 
+/.venv/
+**/.ipynb_checkpoints/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+**/*-checkpoint.ipynb
